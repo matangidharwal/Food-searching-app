@@ -1,9 +1,9 @@
 <h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
 
-![Demo App](/mobile/assets/images//screenshot-for-readme.png)
-(/mobile/assets/images/Screenshot 2025-09-29 at 9.53.05 AM.png)
-(/mobile/assets/images/Screenshot 2025-09-29 at 9.53.21 AM.png)
-(/mobile/assets/images/Screenshot 2025-09-29 at 9.53.05 AM.png)
+![Screenshot 1](mobile/assets/images/1.png)
+![Screenshot 2](mobile/assets/images/2.png)
+![Screenshot 2](mobile/assets/images/3.png)
+
 Highlights:
 
 - 🔐 Signup, Login, and 6-Digit Email Verification with **Clerk**
